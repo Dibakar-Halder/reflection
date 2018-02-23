@@ -1,0 +1,3 @@
+brances in git 
+how to change thehead from master
+how to create and merge brances
